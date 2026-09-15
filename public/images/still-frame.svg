@@ -1,0 +1,15 @@
+<svg viewBox="0 0 400 560" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f1a17"/>
+      <stop offset="100%" stop-color="#1f3a30"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="560" fill="url(#g)"/>
+  <rect x="40" y="40" width="320" height="480" fill="none" stroke="#e8e6e2" stroke-width="0.8" opacity="0.22"/>
+  <rect x="60" y="60" width="280" height="440" fill="none" stroke="#e8e6e2" stroke-width="0.4" opacity="0.12"/>
+  <line x1="40" y1="300" x2="360" y2="300" stroke="#e8e6e2" stroke-width="0.6" opacity="0.15"/>
+  <text x="200" y="290" font-family="serif" font-size="13" fill="#e8e6e2" opacity="0.4" text-anchor="middle" letter-spacing="6">POSTER</text>
+  <text x="200" y="315" font-family="sans-serif" font-size="9" fill="#e8e6e2" opacity="0.25" text-anchor="middle" letter-spacing="3">A2 · ARCHIVAL PRINT</text>
+  <text x="200" y="490" font-family="sans-serif" font-size="10" fill="#e8e6e2" opacity="0.3" text-anchor="middle" letter-spacing="4">IANA·CORVELLE</text>
+</svg>
